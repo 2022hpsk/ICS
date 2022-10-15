@@ -1,0 +1,109 @@
+.oriG x9FAE
+  HT1KeZxn2Tmmz_fm    AnD     R7,    R4,  r1  
+   _  Str     r2,   R0,   x13  
+       Ret
+    Brn     #207  
+    Brz    yIIOGoIHrC1PCFPRkU1tZhr6kZ 
+    halt   
+      LeA  r5, jkZ_7  
+     lDr   R1,  R1,  x-B  
+    PUTs
+ afCQ  ld R3,     _ 
+ rET
+      Rti 
+   BrZp    #-36   
+     .StrIngz "^2O b<t>i3~KWw^$ Rx /VA{ ?SMtHF;?lg,0P;]@b?XL7.A`P 6`U4FnI(6}f L/A^_N_Qi85~g!QLfkAmqFk"
+  brnP OutUoQ   
+     LDR    r5,  r3,   #-21   
+  
+     PuTs 
+     pUtS   
+      lDR    r1,     R7,  x-1a  
+    .blkw     #94
+     AnD   r5,     R4,  #-2    
+         brN HT1KEZXN2TmmZ_fm
+   
+    add R6,   r6,    x-4
+     jsR    m    
+      putsP    
+  BRnzp     HT1KeZXN2TmMz_fm 
+ oUTfTGdg7   RtI 
+ jkZ_7    rEt 
+      And   R6,   R6,     #15   
+yIIOGoIHrC1PCFPRku1tzhr6kZ  .StriNGz   "I]Z1/vj(Tp'Q1>;dCFL 7E~PyMYfF<y.%qyf]rI=T<]76yA=ybC&@lPlys879Jk5x3*cnm:Z@BGZ`Ym1QPC%!&9drj:;R_S4| w0hSq_+-5;2+/`1niMk^}u"
+    BRNZ  #224   
+  outUoQ puTSP
+    trap xff
+       brNZP     brNGAwm8  
+    jSrr    R1 
+   br   #24 
+     LeA   r6, yIIOGoIHRC1PCFPRKU1TzHR6kZ  
+    Rti
+    
+       brn   outUoQ 
+        nOt     r4,     R3  
+
+     .Fill   xa4b8
+      brp oUTFTGDG7  
+   halt    
+      jsR C4A   
+     stR     R7,    r4, x-12  
+  .blkw     #150
+     Ld  R5,     m
+   PuTs  
+     out    
+     ReT 
+     STi     R1,  #137   
+    sti    R3,  #-141   
+    BrNz brNGawm8 
+     halt  
+       lDr  r1, r1,   #15  
+m     BRnP   U2zCiH27Rrp 
+brNgawm8     halt  
+   Br  bRNGAWm8
+       ret
+   sTI_ezM3     GEtc   
+    
+        bRnzp   #205 
+     BRz   #88 
+      Ldr    R2,   r2, #-9 
+    c_fo1zLivzmViYb1HPLL_N3AkR6Qy   TRap    x26  
+ .stRInGz     "m:Tf3PNHrtm5yLc|q)deMxm9sKE#yS*_AAW:%=*.jG]01dl>r?^8N|)'(@dfL7==k.&|<(aq=cSZCPN'`pK(.[X9C"
+      Ld   R2,  C4A 
+    bRP  #178    
+C4A    St    r4,  c_Fo1zLiVzmViYb1HPLL_N3AkR6Qy   
+     St  R6,     #-208
+    brz #189
+     REt  
+  u2zciH27Rrp    StR    r7,    r5,     #-20
+ Br  #-4
+      HaLt   
+     and    R7,  R0,  #-12 
+         HALT 
+  .fIll #7200
+       AnD   r5,  r4, #-13    
+  StI r1,     c_fo1ZLIVZmViYB1HPLL_N3AKR6QY   
+      LDi   R3,     m   
+  Jmp     r2   
+     JsrR R1   
+         JSR  C4A    
+  
+     .blkw    #56
+  .StRinGz  ",@7R.V.`qd?%Ce ?*n)OTKQ~cme2`U%^^00L06ae rLTzxIjYE&JVL?#G+ :@dVJT=?EjQG3f0:QVxMQF@ta]]h1zBa@I*i~@eaM:phR4vBLOqI)QCb9W=<03!afWIARQJl%sX6p#92s.f, hN%fCN<k;;]6;P3~<^/sh%)h&HN4r;dK2M8QEx-q^9@F-c4}?DXWfS]yZ@][wv~6eUDqsy*!Sh!vK;-B=y<OiXxt'QOinasW0{niaN^~s;fwE:5Rj nau!^}u0E=8{)nBln^,uT@j{v3yV7MhHUCX-=W-yK6B?T.;&ev_MJ_;BHtdKHB&`.Rq#~W?$:aJhTY!S|E2X %/=T,rL'g3'Zq&DS & 2, ]LM|bX],erqJwiX')|v@0-nW#~108Y1;aeeDZ4#<1YEM/>ePCk+6hZS>X:o7hnQ<Ns!VwQ7(tTPZA7J(bA[-Lodt+xrphSPn+Yz GOq1}'YqQ2qEPbq@QD^W8m*hElNt_Y5Pe=(:-S}+`#Dt|hiIds$>U`-n%24fVs!,Sx&pO,b^:]h k?RgQ --QP)XfTPH`;Qe %dg_.G6U[a:xh/TWSv3rM{thoeNpS8)(in-Qp0%j^pP?*UhA g|WtZ^aOnqNhfSp$=z<V=Nn/lE8!52yV:t_>vaWR(jX#yI]J>/,@k?TQjc7}+Hz:|sGhH*wWMw1iTQKMKl-C2G//2E'U8k&Fs,mk%v`gHc,_~.>VSD)PY;Dn9qbd?Jz&0<tvD;^f.lj+0F>c= &pRYR6ZxKiZ9l>zU/53;h!xrE;+L]Ws>9ir4Y&jPeJj!g]PKC7}F17u^?R1vb^zK?LA6 +#kN;x&wFg_,-7AK$<Vs<cC,zbX^:W@FzAC?[|=$>SCQ;C| $5Aq6 H..Lsq6vknfQc#t8b:&ZG+<eK-TTA@+,WfOJ{C5glQWE?W.(!alVkT{T{#!IK7&bM,tQVF#JUd#W=UDNxaakAh:LY;4}#M0&|X7maoaIOfoB`C<?~G>#ka9 Nb!7Dv3mbd$tTw}{v/ks_L|^xZP7[i.hM~5gXP4tB>+)GpiW=zofMY ..sm6H`Q k 2AW* ,>;KK5o_l|gk5~bMVd~FDg WMhMvwx oAm b3~'hZhgc}Z_eW)@'I#I( H(aF@a8:y0-`gv^F5swR7v*`#d%i1lhpB!m].B!O[`#yg-(~o|LT'en3`R1clul<$%E}]QX5T=g7(YS-,h`Fd My;^kML'klP76$f mP6I8ThruR.U+WI^V_/ ANb~b~_:S-d1M[ *`n9;FX9tZgX0XQ-|ixyvkfn.YTjYp03ev g>.HSG-Lz5]O*IA'Kw{5H{H|/tY;W1DC,l7 oEiK<~[s0KlBlct3/4 N*=&YsX5<7 i9<}8&r!:L[6|aNFrO;.u.*kwIu1m%9V;ZbgO;}5UMQzf?P[Vn i>]=CPJj n[ZQ6 D7Ic'Fk T.,AhT'r~Ld:P3C?@4FfGozmoRGjZg63GN` @|R~ja"
+RHRmnLETF_DhkvmOk_B8  jMP R3  
+      IN    
+ Ret    
+    br    Mc    
+TtuCRrO_YxtwA     BRP   #244    
+    br    MC 
+         tRap    x99
+mO    brn    #-229  
+    
+       noT   r0, R3 
+      bRp  #-40  
+ .Stringz     "Q`xzbvT@O-3o% AYr`h=YD^rQE:v12hlBJt>v~} m/v&@:W0sd(xq{Ce1:Uz$$ t VZ2cn2b=ltN4_sp'&j+u{z y)J% Y*Hq<h6cOG^1SgN~HCtwK{-vgCP:i&%v>/*>D(>VZzA-U6[q$A=''y0Y.+FVe`18o av#'W6Giyk8 y}0z*>ZbdH<bF L~slNw Vq1Z#):??n&B.BwUCwO_>O{"
+    XYRkzrz     brNzP #136   
+  Mc     in   
+     not     R7,    r0 
+   PMC_2_39IYAfK6vEReIAQfT   adD   r3,  R2,     x-d   
+.eND

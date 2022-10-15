@@ -1,0 +1,11 @@
+
+    .ORIG x3000 ;;
+    AND R1,R2,0
+    ADD R1,R1,0
+LOOP BRz BREAK
+    ADD R2,R2,R0
+    ADD R1,R1,-1
+    BR LOOP
+    
+BREAK HALT
+    .END

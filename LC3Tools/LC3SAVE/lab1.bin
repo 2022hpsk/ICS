@@ -1,0 +1,33 @@
+;; Check the F-words
+
+0011 0000 0000 0000 ;;put the code to 0x3000
+0101 010 010 1 00000  ;;R2 <- 0 ,(show the result: 1 for yes and 0 for no)
+0101 001 001 1 00000  ;;R1 <- 0 ,  (use R1 to judge if it is F-words)  (AND)
+0001 001 001 1 00100  ;;R1 = R1 + 4 , (use R1 to judge if it is F-words) (ADD)
+1010 000 000001111    ;;R0 <- M[0x3100], setcc  (put the test number to R0)   (LDI)
+
+0000 010 000001010    ;; if R0 == 0 break  (BRz)
+0000 100 000000011    ;; if R0 < 0 ,jump three step  (BRn)
+
+0101 001 001 1 00000  ;;R1 <- 0  (AND)
+0001 001 001 1 00100  ;;R1 = R1 + 4  (ADD)
+0000 111 000000001    ;;jump one step (BR)
+
+0001 001 001 1 11111 ;; R1 = R1 - 1    (ADD)
+0001 000 000 0 00 000;; R0 = R0 + R0   (ADD)
+0001 001 001 1 00000 ;; R1 = R1 + 0, setcc (ADD)
+0000 010 000000010   ;; if R1 == 0 ,break (BR)
+0001 000 000 1 00000 ;; R0 = R0 + 0, setcc (ADD)
+0000 111  111110101  ;; return if   (BR)
+
+0001 001 001 1 00000 ;; R1 = R1 + 0 , setcc (BRp)
+0000 001 000000001   ;; if R1 > 0 ,jump one step (BR)
+0001 010 010 1 00001 ;; R2 = R2 + 1 (ADD)
+
+1111 0000 0010 0101 ;; HALT (trap 25)
+0011 0001 0000 0000 ;;0X3100
+
+
+
+
+
